@@ -23,7 +23,7 @@ sections:
   - type: image_section
     image: /images/Paradise-Typography-Color.png
     image_alt: Aimi 2
-    width: wide
+    width: regular
     caption: Color Palette & Typography
   - type: text_section
     content: >-
