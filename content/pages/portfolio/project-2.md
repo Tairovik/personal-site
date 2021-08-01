@@ -6,7 +6,7 @@ thumb_image: images/work-branding-1-thumb.jpg
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
-    image: images/work-branding-1.jpg
+    image: /images/Paradise-Logo.png
     image_alt: Aimi 1
     caption: Logo Design
     width: wide
