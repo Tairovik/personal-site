@@ -35,7 +35,7 @@ sections:
     image: images/work-poster-3.jpg
     image_alt: Design Is One 3
     width: wide
-    caption: App Design
+    caption: UI / UX Design
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
