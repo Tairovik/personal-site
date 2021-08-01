@@ -53,8 +53,8 @@ sections:
     type: image_section
     image: /images/Hindamy-Iconography.png
   - content: >
-      Lorm ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et
-      dolore magna aliqua.
+      A custom set of icons was also designer for the needs of the brand &
+      application.
     type: text_section
 seo:
   title: Design Is One
