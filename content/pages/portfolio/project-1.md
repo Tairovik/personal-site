@@ -51,7 +51,7 @@ sections:
     caption: Iconography
     width: wide
     type: image_section
-    image: /images/work-book-3.jpg
+    image: /images/Hindamy-Iconography.png
   - content: >
       Lorm ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et
       dolore magna aliqua.
