@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/work-branding-1.jpg
     image_alt: Aimi 1
-    caption: This is the caption of the image
+    caption: Logo
     width: wide
   - type: text_section
     content: >-
