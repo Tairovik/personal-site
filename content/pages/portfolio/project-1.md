@@ -38,15 +38,15 @@ sections:
     caption: UI / UX
   - type: text_section
     content: >
-      The Hindamy branding – utilized on the Hindamy application.
+      The Hindamy branding – utilized on the Hindamy application. We made sure
+      that the minimalistic, yet elegant and luxurious feeling of the brand is
+      present and felt through the design of the application itself.
 
 
       To get to the desired destination, we went through the creation of
       multiple prototypes and screens, as well as the creation of a wide range
       of custom categories icons that match the whole visual identity of the
-      brand. We made sure that the minimalistic, yet elegant and luxurious
-      feeling of the brand is present and felt through the design of the
-      application itself.
+      brand. 
   - image_alt: Design Is One 4
     caption: Iconography
     width: wide
