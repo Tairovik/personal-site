@@ -24,6 +24,7 @@ sections:
     image: images/work-poster-2.jpg
     image_alt: Design Is One 2
     width: wide
+    caption: Color Palette & Typography
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
