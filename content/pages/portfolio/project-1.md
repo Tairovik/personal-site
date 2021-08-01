@@ -50,6 +50,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/work-book-3.jpg
 seo:
   title: Design Is One
   description: This is the sample project description
