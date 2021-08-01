@@ -11,7 +11,7 @@ sections:
     caption: Logo Design
     width: wide
   - type: text_section
-    content: "The main idea behind the logo was minimalism enhanced with a dash of luxury. Through the combination of the timeless typeface, and the golden accent line – we got the desired product for our client.\_\n\nWe designed two versions of the Hindamy logo, the Wordmark for general use and brand representation, and the Icon for mobile application purposes.\n"
+    content: "The main idea behind the logo was minimalism enhanced with a dash of luxury. Through the combination of the timeless typeface, and the golden accent line – I got the desired product for our client.\_\n\nHaving designed two versions of the Hindamy logo, we got the Wordmark for general use and brand representation, and the Icon for mobile application purposes.\n"
   - type: image_section
     image: /images/Hindamy-Color-Typography.png
     image_alt: Design Is One 2
