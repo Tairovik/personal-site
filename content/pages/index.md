@@ -72,7 +72,7 @@ sections:
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
-    subtitle: What our Clients say
+    subtitle: What my Clients say
     col_number: three
     testimonials:
       - author: Desmond Eagle
