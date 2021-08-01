@@ -9,7 +9,7 @@ sections:
     image: /images/Paradise-Logo.png
     image_alt: Aimi 1
     caption: Logo Design
-    width: wide
+    width: regular
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
