@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/work-poster-1.jpg
     image_alt: Design Is One 1
-    caption: This is the caption of the image
+    caption: Logo Design
     width: wide
   - type: text_section
     content: >-
