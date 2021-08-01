@@ -35,6 +35,7 @@ sections:
     image: images/work-branding-3.jpg
     image_alt: Aimi 3
     width: wide
+    caption: Stationery Design
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
