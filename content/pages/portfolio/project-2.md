@@ -34,7 +34,7 @@ sections:
   - type: image_section
     image: /images/Paradise-Stationery.png
     image_alt: Aimi 3
-    width: wide
+    width: regular
     caption: Stationery Design
   - type: text_section
     content: >-
