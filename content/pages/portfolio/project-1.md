@@ -2,7 +2,7 @@
 title: Hindamy
 subtitle: 'Branding, UI/UX, Web Design'
 date: '2020-02-10'
-thumb_image: /images/Hindamy---Thumbnail.png
+thumb_image: /images/Hindamy-Thumbnail.png
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
