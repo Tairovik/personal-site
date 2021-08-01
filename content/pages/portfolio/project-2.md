@@ -28,11 +28,14 @@ sections:
     width: regular
     caption: Color Palette & Typography
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      The timeless combination of a modern sans-serif and a serif typography
+      combination. 
+
+
+      Paired with the sunset inspired color palette, utilized across the brand
+      pattern as well - we get two great puzzle pieces that perfectly fit into
+      the development of the Paradise brand.
   - type: image_section
     image: /images/Paradise-Stationery.png
     image_alt: Aimi 3
