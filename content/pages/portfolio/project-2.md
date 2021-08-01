@@ -39,15 +39,12 @@ sections:
     width: regular
     caption: Stationery Design
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      The visual identity is applied on all the required elements of a hotel,
+      such as the key cards and door hangers. Due to the nature of the design
+      work, I made sure that we have the option of being flexible and scalable,
+      such that the branding can be used and evolved in the future based on the
+      needs of the clients business.
 seo:
   title: Aimi
   description: This is the sample project description
