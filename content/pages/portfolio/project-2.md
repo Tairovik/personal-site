@@ -11,15 +11,17 @@ sections:
     caption: Logo Design
     width: regular
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >+
+      The values I wanted to represent were Harmony, Nature, Hospitality and
+      Excellence.
+
+
+      The logo designed for Paradise focuses on visually showcasing those
+      values, with a hint of warmth and relaxation. I managed to achieve it
+      through the implementation of the carefully picked color palette and
+      precisely designed lotus element.
+
+
   - type: image_section
     image: /images/Paradise-Typography-Color.png
     image_alt: Aimi 2
