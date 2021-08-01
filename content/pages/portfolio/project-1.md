@@ -1,6 +1,6 @@
 ---
 title: Hindamy
-subtitle: Print
+subtitle: 'Branding, UI/UX, Website'
 date: '2020-02-10'
 thumb_image: images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
