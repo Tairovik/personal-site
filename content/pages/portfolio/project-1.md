@@ -47,7 +47,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - image_alt: Design Is One 4
-    caption: lorem-ipsum
+    caption: Iconography
     width: regular
     type: image_section
     image: /images/work-book-3.jpg
