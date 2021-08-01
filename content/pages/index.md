@@ -5,10 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     title: 'Designer dedicated to the craft, developing brands & UI / UX that lasts.'
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      Working closely with you & your team, delivering inspiring work, which
+      enables your organization to grow. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
