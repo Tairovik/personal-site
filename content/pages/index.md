@@ -94,7 +94,7 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >
-      Say hello at <email@example.com> or tell me more about your project by
+      Say hello at hello@tairovik.com or tell me more about your project by
       getting started below.
     actions:
       - label: Let's start
