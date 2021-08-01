@@ -48,7 +48,7 @@ sections:
       arcu accumsan lorem amet accumsan.
   - image_alt: Design Is One 4
     caption: Iconography
-    width: regular
+    width: wide
     type: image_section
     image: /images/work-book-3.jpg
 seo:
