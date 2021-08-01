@@ -6,7 +6,7 @@ thumb_image: images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: images/work-poster-1.jpg
+    image: /images/Hindamy-Logo.png
     image_alt: Design Is One 1
     caption: Logo Design
     width: wide
