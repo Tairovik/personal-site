@@ -24,6 +24,7 @@ sections:
     image: images/work-branding-2.jpg
     image_alt: Aimi 2
     width: wide
+    caption: 'Color '
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
