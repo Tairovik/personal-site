@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: |+
+    content: |
       Let’s build something great together.<br>
       Complete our contact form or send us an email at <email@example.com>.
 
@@ -13,13 +13,12 @@ sections:
       ## My Socials
 
       [Instagram
+
       ](https://www.instagram.com/tairovic.s/)
       [LinkedIn](https://www.linkedin.com/in/seid-tairovik/)
 
+
       [Behance](https://www.behance.net/tairovikj)
-
-
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:
