@@ -24,6 +24,7 @@ sections:
     image: /images/US-Aid-Open-2.png
     image_alt: Nature Magazine 2
     width: wide
+    caption: Book Content
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
