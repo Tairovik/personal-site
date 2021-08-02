@@ -47,7 +47,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Lounge Bar
     width: regular
     type: image_section
     image: /images/Sentido-Logo.png
