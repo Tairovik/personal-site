@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/violet-hickory.png
     image_alt: Korneto Logo
-    caption: Ice Cream Industry
+    caption: Ice Cream & Distribution
     width: wide
   - type: text_section
     content: >-
