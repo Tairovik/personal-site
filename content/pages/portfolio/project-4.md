@@ -24,6 +24,7 @@ sections:
     image: images/work-book-2.jpg
     image_alt: Nature Mockup Magazine 2
     width: wide
+    caption: Color Palette & Typgoraphy
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
