@@ -57,7 +57,7 @@ sections:
         options:
           - Brand Development
           - UI / UX
-          - Gene
+          - Graphic Design
           - lorem-ipsum
       - input_type: textarea
         name: message
