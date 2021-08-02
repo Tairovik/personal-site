@@ -11,15 +11,16 @@ sections:
     caption: Book Cover
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      US Aid in cooperation with the "Health Above All" organization reached out
+      to me, requesting my guidance and design for their project. The book is of
+      educational character, teaching its readers how to properly take care of,
+      and improve their mental & physical health.
+
+
+      Due to the character of the project - it was more than a pleasure to be a
+      part of it. My values stand and will always aim towards helping and
+      contributing to the community's safety and health.
   - type: image_section
     image: /images/US-Aid-Open-2.png
     image_alt: Nature Magazine 2
