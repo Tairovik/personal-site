@@ -27,11 +27,17 @@ sections:
     width: wide
     caption: Book Content
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      The overall looks we went for were pastel, friendly colors in the shades
+      of blue and green. The cover has a clear and bold typographic title, with
+      a minimalistic polygonal background which is seen across the whole book.
+      It is meant to represent all the small pieces that make us people from the
+      combination of characteristics that we are.
+
+
+      I also handled the Print Design portion of the project, organizing the
+      text and picture layouts in harmony. Our priority was accessibility and
+      ease of use, and understanding of content for the readers.
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
