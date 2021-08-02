@@ -55,7 +55,7 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
+          - Brand Development
           - UI / UX
           - Digital
       - input_type: textarea
