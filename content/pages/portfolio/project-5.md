@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/US-Aid-Cover-2.png
     image_alt: US Aid Health Cover
-    caption: Guide Cover
+    caption: Book Cover
     width: wide
   - type: text_section
     content: >-
