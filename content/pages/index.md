@@ -82,7 +82,7 @@ sections:
         content: >-
           Seid has helped us in coming up with a truly innovative, memorable
           logo for our organization. He was able to design our vision in a
-          limited time frame -
+          limited time frame - highly recommend him!
       - author: Omar Alkandri
         avatar: /images/thoughtful-velociraptor.jpeg
         avatar_alt: Dianne Ameter's photo
