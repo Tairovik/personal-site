@@ -33,7 +33,7 @@ sections:
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
     image: /images/The-Sign-Logo.png
-    image_alt: Subtle 3
+    image_alt: The Sign Logo
     width: wide
     caption: Logo Design
   - type: text_section
