@@ -84,7 +84,7 @@ sections:
           academic experience. Great communication and turnaround rate. Highly
           recommend him!
       - author: Omar Alkandri
-        avatar: images/dianne-ameter.jpg
+        avatar: /images/Omar Ameen Testimonial.jpeg
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Hindamy'
         content: >-
