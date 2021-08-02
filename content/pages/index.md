@@ -80,9 +80,8 @@ sections:
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, All Up'
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          Professor Seid is great to work with, mixing his practical and
+          academic experience. Highly recommend him!
       - author: Omar Alkandri
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
