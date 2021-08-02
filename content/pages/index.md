@@ -80,9 +80,9 @@ sections:
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, All Up'
         content: >-
-          Professor Seid is a pleasure to work with, mixing his practical and
-          academic experience. Great communication and turnaround rate. Highly
-          recommend him!
+          Seid has helped us in coming up with a truly innovative, memorable
+          logo for our organization. He was able to design our vision in a
+          limited time frame -
       - author: Omar Alkandri
         avatar: /images/thoughtful-velociraptor.jpeg
         avatar_alt: Dianne Ameter's photo
