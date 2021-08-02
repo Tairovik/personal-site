@@ -87,8 +87,9 @@ sections:
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Hindamy'
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          I never thought that a designer would be able to fully grasp the
+          essence of our company's idea - but the results were overwhelmingly
+          posi
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
