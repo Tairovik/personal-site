@@ -6,7 +6,7 @@ thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview
 sections:
   - type: image_section
-    image: /images/US-Aid-Cover.png
+    image: /images/US-Aid-Cover-2.png
     image_alt: US Aid Health Cover
     caption: This is the caption of the image
     width: wide
