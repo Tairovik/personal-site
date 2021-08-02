@@ -87,8 +87,9 @@ sections:
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Hindamy'
         content: >-
-          We absolutely love the whole brand developed for our company. Hoping
-          to continue our collaboration through upcoming projects
+          We're absolutely in love with the brand developed for our company.
+          Hoping to continue our collaboration through upcoming projects in the
+          future!
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
