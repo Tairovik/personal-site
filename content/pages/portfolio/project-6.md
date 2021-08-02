@@ -24,6 +24,7 @@ sections:
     image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2
     width: wide
+    caption: Logo Design
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
