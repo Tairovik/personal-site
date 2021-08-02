@@ -80,7 +80,7 @@ sections:
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, All Up'
         content: >-
-          Professor Seid is great to work with, mixing his practical and
+          Professor Seid is a pleasure to work with, mixing his practical and
           academic experience. Great communication and turnaround rate. Highly
           recommend him!
       - author: Omar Alkandri
