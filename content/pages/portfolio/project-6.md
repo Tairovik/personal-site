@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/violet-hickory.png
     image_alt: Korneto Logo
-    caption: This is the caption of the image
+    caption: I
     width: wide
   - type: text_section
     content: >-
