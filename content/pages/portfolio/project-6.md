@@ -22,7 +22,7 @@ sections:
       arcu accumsan lorem amet accumsan.
   - type: image_section
     image: /images/Diverse-Logo.png
-    image_alt: Subtle 2
+    image_alt: Diverse Logo
     width: wide
     caption: Logo Design
   - type: text_section
