@@ -43,6 +43,10 @@ sections:
       The brand guidelines put to use across our web app & user interface. Right
       from the get-go, we see the noticeable color palette & typography choices
       which look great together.
+
+
+      We also made sure for the whole user experience to be at it's pinnacle -
+      not compromising any accessibility or legibility for the price of looks. 
 seo:
   title: Nature Mockup Magazine
   description: This is the sample project description
