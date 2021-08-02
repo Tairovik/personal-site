@@ -36,8 +36,8 @@ sections:
   - type: text_section
     content: >
       The logo created for the design studio "The Sign", showcasing the first
-      letters of the studio through an ambidextrous form and the negative space
-      in-between.
+      letters of the studio through a flowing-ambidextrous form and the forming
+      of the negative space in-between.
   - image_alt: Sentido Logo
     caption: Lounge Bar
     width: regular
