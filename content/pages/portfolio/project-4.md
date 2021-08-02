@@ -35,6 +35,7 @@ sections:
     image: images/work-book-3.jpg
     image_alt: Nature Mockup Magazine 3
     width: wide
+    caption: UI / UX
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
