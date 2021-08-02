@@ -51,17 +51,9 @@ sections:
     width: regular
     type: image_section
     image: /images/Sentido-Logo.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: >
+      Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et
+      dolore magna aliqua.
     type: text_section
 seo:
   title: Subtle
