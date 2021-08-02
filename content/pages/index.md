@@ -78,7 +78,7 @@ sections:
       - author: David Friend
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, A Company'
+        position: 'CEO and founder, All Up'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
