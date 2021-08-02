@@ -7,7 +7,7 @@ thumb_image_alt: Subtle preview
 sections:
   - type: image_section
     image: /images/violet-hickory.png
-    image_alt: Subtle 1
+    image_alt: Korneto Logo
     caption: This is the caption of the image
     width: wide
   - type: text_section
