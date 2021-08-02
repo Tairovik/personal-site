@@ -46,7 +46,7 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
-  - image_alt: lorem-ipsum
+  - image_alt: Sentido Logo
     caption: Lounge Bar
     width: regular
     type: image_section
