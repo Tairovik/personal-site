@@ -56,7 +56,7 @@ sections:
         default_value: Please select
         options:
           - Branding
-          - Design
+          - UI / UX
           - Digital
       - input_type: textarea
         name: message
