@@ -11,15 +11,14 @@ sections:
     caption: Logo Design
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      Inspired by the NASA Mission, All Up is a Cloud Financial Operations
+      platform, enabling teams to make business trade-offs between speed, cost
+      and quality. 
+
+
+      The logo stands for the letter "A", and symbolizes a rocket pointing
+      upwards, with the slope pointing upwards representing growth and motion.
   - type: image_section
     image: /images/All-Up-Typography-Color.png
     image_alt: Nature Mockup Magazine 2
