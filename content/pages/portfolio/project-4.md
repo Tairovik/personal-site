@@ -25,11 +25,14 @@ sections:
     width: wide
     caption: Color Palette & Typgoraphy
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      Going for the Cobalt Blue & Amethyst Pink hues which psychologically
+      looking at colors represent loyalty, trust, organization & ambition.
+
+
+      The typography is composed of the sleek looking Montserrat which we use
+      across the User Interface & Body Paragraphs, and the Merriweather serif
+      font as a Header choice.  
   - type: image_section
     image: /images/All-Up-UI-UX.png
     image_alt: Nature Mockup Magazine 3
