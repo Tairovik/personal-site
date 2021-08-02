@@ -75,7 +75,7 @@ sections:
     subtitle: What my Clients say
     col_number: three
     testimonials:
-      - author: Desmond Eagle
+      - author: David Friend
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, A Company'
