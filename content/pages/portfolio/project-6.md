@@ -24,7 +24,7 @@ sections:
     image: /images/Diverse-Logo.png
     image_alt: Diverse Logo
     width: wide
-    caption: Finance
+    caption: Investment & Finance
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
