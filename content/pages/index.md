@@ -76,7 +76,7 @@ sections:
     col_number: three
     testimonials:
       - author: Ardian Limani
-        avatar: images/desmond-eagle.jpg
+        avatar: /images/Ardian Limani Testimonial.jpg
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, AKSES'
         content: >-
