@@ -30,7 +30,7 @@ sections:
       A strong believer and supporter of the idea that in today's modern world,
       we need to make sure that we communicate visually as well, if not better,
       than we do with our words.
-    image: images/about.jpg
+    image: /images/IMG_0803.jpg
     image_alt: Our team in the meeting room
 seo:
   title: About Us
