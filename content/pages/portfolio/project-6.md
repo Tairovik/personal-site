@@ -35,6 +35,7 @@ sections:
     image: images/work-photography-magazine-3.jpg
     image_alt: Subtle 3
     width: wide
+    caption: Logo Design
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
