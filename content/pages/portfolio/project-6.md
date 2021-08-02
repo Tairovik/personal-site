@@ -50,6 +50,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/Sentido-Logo.png
 seo:
   title: Subtle
   description: This is the sample project description
