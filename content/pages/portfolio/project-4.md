@@ -6,7 +6,7 @@ thumb_image: images/work-book-1-thumb.jpg
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
-    image: images/work-book-1.jpg
+    image: /images/All-Up-Logo-2.png
     image_alt: Nature Mockup Magazine 1
     caption: Logo Design
     width: wide
