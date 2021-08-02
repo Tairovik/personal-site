@@ -11,15 +11,11 @@ sections:
     caption: Ice Cream & Distribution
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      A design created for the biggest ice-cream importers & distributors in
+      Macedonia. Working with world known brands such as Algida, Magnum, and Ben
+      & Jerry's - the logo mark represents an ice cream cone, combined with the
+      first letter of the wordmark. 
   - type: image_section
     image: /images/Diverse-Logo.png
     image_alt: Diverse Logo
