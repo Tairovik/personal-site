@@ -78,7 +78,7 @@ sections:
       - author: Ardian Limani
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, All Up'
+        position: 'CEO and founder, AKSES'
         content: >-
           Seid has helped us in coming up with a truly innovative, memorable
           logo for our organization. He was able to design our vision in a
