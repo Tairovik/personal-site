@@ -81,7 +81,8 @@ sections:
         position: 'CEO and founder, All Up'
         content: >-
           Professor Seid is great to work with, mixing his practical and
-          academic experience. Highly recommend him!
+          academic experience. Great communication and turnaround rate. Highly
+          recommend him!
       - author: Omar Alkandri
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
