@@ -4,9 +4,9 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: |+
-      Let’s build something great together.<br>
-      Complete our contact form or send us an email at <email@example.com>.
+    content: |
+      Let’s build something great together.
+      Complete our contact form or send me an email at hello@tairovik.com
 
       ***
 
@@ -18,12 +18,7 @@ sections:
 
       [Behance](https://www.behance.net/tairovikj)
 
-
-
-
-
       ####
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:
