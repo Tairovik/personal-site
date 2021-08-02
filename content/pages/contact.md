@@ -58,7 +58,7 @@ sections:
           - Brand Development
           - UI / UX
           - Graphic Design
-          - lorem-ipsum
+          - Other
       - input_type: textarea
         name: message
         label: Message
