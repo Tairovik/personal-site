@@ -23,11 +23,11 @@ sections:
     width: wide
     caption: Investment & Finance
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      The logo designed for a financial advisory & investment corporation from
+      Kuwait, combining a blue color scheme with a bold typography and a logo
+      mark which represents a chart-pie diversification whilst resembling the
+      letter "D" in both its capital and lower case versions.
   - type: image_section
     image: /images/The-Sign-Logo.png
     image_alt: The Sign Logo
