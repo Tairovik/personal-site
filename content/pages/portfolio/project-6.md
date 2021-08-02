@@ -43,9 +43,16 @@ sections:
     width: regular
     type: image_section
     image: /images/Sentido-Logo.png
-  - content: >
-      Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et
-      dolore magna aliqua.
+  - content: >+
+      Sentido is a modern lounge bar, located in the center of Skopje, that
+      makes each of their clients day better by offering and serving high
+      quality food and beverages, in the contemporary ambiance of their place. I
+      made sure that the logo stands for their daily mission - the leaf element,
+      together with the mint color are used as the primary design elements for
+      the bar – showing a minimalistic, yet sophisticated sense of style.
+
+
+
     type: text_section
 seo:
   title: Subtle
