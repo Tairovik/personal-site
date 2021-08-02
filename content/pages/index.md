@@ -83,7 +83,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
-      - author: Dianne Ameter
+      - author: Omar Alkandri
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Another Company'
