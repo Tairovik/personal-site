@@ -31,7 +31,7 @@ sections:
       we need to make sure that we communicate visually as well, if not better,
       than we do with our words.
     image: /images/IMG_0803.jpg
-    image_alt: Our team in the meeting room
+    image_alt: Attending the Spaces of Oblivion Exhibition.
 seo:
   title: About Us
   description: This is the about us page
