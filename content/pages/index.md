@@ -89,7 +89,7 @@ sections:
         content: >-
           I never thought that a designer would be able to fully grasp the
           essence of our company's idea - but the results were overwhelmingly
-          posi
+          positive!
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
