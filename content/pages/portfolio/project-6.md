@@ -2,7 +2,7 @@
 title: 'Logofolio #1'
 subtitle: Logo Design Collection
 date: '2021-02-06'
-thumb_image: images/work-photography-magazine-1-thumb.jpg
+thumb_image: /images/Logos-1.png
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
