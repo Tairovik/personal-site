@@ -14,8 +14,9 @@ sections:
     content: >
       A design created for the biggest ice-cream importers & distributors in
       Macedonia. Working with world known brands such as Algida, Magnum, and Ben
-      & Jerry's - the logo mark represents an ice cream cone, combined with the
-      first letter of the wordmark. 
+      & Jerry's - through a minimalistic approach the logo mark represents an
+      ice cream cone, combined with the first letter of the wordmark which is
+      composed of an elegant yet contemporary typography.
   - type: image_section
     image: /images/Diverse-Logo.png
     image_alt: Diverse Logo
