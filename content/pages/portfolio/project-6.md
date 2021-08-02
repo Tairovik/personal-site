@@ -35,7 +35,7 @@ sections:
     image: /images/The-Sign-Logo.png
     image_alt: The Sign Logo
     width: wide
-    caption: Logo Design
+    caption: Design Agency
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
