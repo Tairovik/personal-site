@@ -87,9 +87,8 @@ sections:
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Hindamy'
         content: >-
-          I never thought that a designer would be able to fully grasp the
-          essence of our company's idea - but the results were overwhelmingly
-          positive!
+          We absolutely love the whole brand developed for our company. Hoping
+          to continue our collaboration through upcoming projects
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
