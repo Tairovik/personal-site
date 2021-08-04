@@ -20,7 +20,7 @@ sections:
       artist's prism.
 
   - type: image_section
-    image: images/work-book-cover-2.jpg
+    image: /images/Catalogue.png
     image_alt: The Book 2
     width: wide
     caption: Catalogue Design
