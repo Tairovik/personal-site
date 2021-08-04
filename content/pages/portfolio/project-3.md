@@ -35,6 +35,7 @@ sections:
     image: images/work-book-cover-3.jpg
     image_alt: The Book 3
     width: wide
+    caption: Gallery
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
