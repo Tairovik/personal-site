@@ -2,7 +2,7 @@
 title: Spaces of Oblivion
 subtitle: Exhibition Poster & Catalogue Design
 date: '2020-04-10'
-thumb_image: images/work-book-cover-1-thumb.jpg
+thumb_image: /images/Spaces-Thumbnail.png
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
