@@ -25,14 +25,13 @@ sections:
     width: wide
     caption: Catalogue Design
   - type: text_section
-    content: >+
-      “Spaces of oblivion” rises from a long-term exploration that started back
+    content: >
+      “Spaces of Oblivion” rises from a long-term exploration that started back
       in 2017. The series consists of sixty paintings in different formats,
       painted with acrylic on canvas, along with digital paintings, worked on a
       photographic model. A common denominator is that the paintings depict
       interiors of public institutions, buildings built in the 1970s as part of
       the modern architecture in Skopje - buildings.
-
   - type: image_section
     image: images/work-book-cover-3.jpg
     image_alt: The Book 3
