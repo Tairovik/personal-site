@@ -33,7 +33,7 @@ sections:
       interiors of public institutions, buildings built in the 1970s as part of
       the modern architecture in Skopje - buildings.
   - type: image_section
-    image: images/work-book-cover-3.jpg
+    image: /images/Gallery.png
     image_alt: The Book 3
     width: wide
     caption: Gallery
