@@ -24,6 +24,7 @@ sections:
     image: images/work-book-cover-2.jpg
     image_alt: The Book 2
     width: wide
+    caption: Catalogue Design
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
