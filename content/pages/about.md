@@ -34,7 +34,6 @@ sections:
     type: content_section
   - section_id: Projects
     title: Projects
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
