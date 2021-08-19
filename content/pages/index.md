@@ -43,11 +43,12 @@ sections:
         content: |
           *   Brand Development
           *   Logo Design
+          *   Concept Development
           *   Brand Positioning
           *   Brand Guidelines
-          *   Design Strategy
+          *   Design Systems
           *   Visual Identity
-          *   Communication strategy
+          *   Brand Implementation & Management
       - title: User Interface
         image: images/service-2.svg
         content: |-
