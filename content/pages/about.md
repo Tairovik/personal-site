@@ -40,12 +40,34 @@ sections:
       Lounge](https://www.instagram.com/sentidolounge/)
 
 
+      Creating the brand identity & restaurant stationery for a contemporary
+      lounge bar at the city center in Skopje.
+
+
+
+      ####
+
+
       #### &#xA;Branding, Visual Identity at [The Scent
       Corner](https://www.instagram.com/thescentcorner/)
 
 
+      Branding and packaging design of a handmade candle crafts business.
+
+
+      ####
+
+
       #### &#xA;Branding, Visual Identity at [Hotel
       Paradise](https://www.behance.net/gallery/100948965/Hotel-Paradise-Branding)
+
+
+      Branding of a mountain side hotel & spa located near Sarajevo, Bosnia.
+
+
+
+
+      ####
 
 
       #### &#xA;Branding, Web Design, UI / UX at
@@ -54,8 +76,6 @@ sections:
 
       Creating the visual identity, brand guidelines and UI / UX design of an
       upcoming e-commerce platform in Kuwait.
-
-
 
 
       ####
