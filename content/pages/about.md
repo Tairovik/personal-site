@@ -120,7 +120,7 @@ seo:
         Find out more about Tairovik Seid, designer focused on developing
         brands, visual identities and UI & UX that gets the job done.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/IMG_0803.jpg
       relativeUrl: true
 layout: advanced
 ---
