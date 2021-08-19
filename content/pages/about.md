@@ -33,7 +33,6 @@ sections:
     image_alt: Attending the Spaces of Oblivion Exhibition.
   - section_id: Work Experience
     title: Work Experience
-    subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
