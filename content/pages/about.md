@@ -36,13 +36,23 @@ sections:
     title: Projects
     image_alt: lorem-ipsum
     content: >
+      #### Branding, Web Design at [AllUp](https://allup.ai/web/)
+
+
+      Developing the visual identity of a FinOps platform, focused on helping
+      teams collaborate with their financial departments more fluidly.
+
+
+
+
+
+
       #### Branding, Visual Identity at [Sentido
       Lounge](https://www.instagram.com/sentidolounge/)
 
 
       Creating the brand identity & restaurant stationery for a contemporary
       lounge bar at the city center in Skopje.
-
 
 
       ####
@@ -63,8 +73,6 @@ sections:
 
 
       Branding of a mountain side hotel & spa located near Sarajevo, Bosnia.
-
-
 
 
       ####
