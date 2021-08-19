@@ -30,7 +30,6 @@ sections:
       A strong believer and supporter of the idea that in today's modern world,
       we need to make sure that we communicate visually as well, if not better,
       than we do with our words.
-    image: /images/IMG_0803.jpg
     image_alt: Attending the Spaces of Oblivion Exhibition.
 seo:
   title: About Us
