@@ -6,29 +6,25 @@ sections:
     content: >
       Graduated from the Faculty of Engineering with a bachelor's degree in
       Architecture, and the Faculty of Art & Design with a Master of Art at the
-      International Balkan University - Skopje. 
+      International Balkan University - Skopje.
 
 
-      Previously a founder & creative director at the design studio The Sign,
-      and currently an Assistant Professor at the International Balkan
-      University - lecturing the classes of "History of Architecture and Art I &
-      II" and "Introduction to Art and Culture I\&II"
+      Having the design experience in developing visual identities and UI / UX
+      on a wide variety of projects ranging from web apps, SaaS
+
+      businesses, AI apps, finance & investment firms, all the way to lounge
+      bars & hotels - my design skills cover everything from larger to smaller
+      scales and requirements.
 
 
-      Having the design experience on developing visual identities on a wide
-      variety of projects for clients such as lounge bars, hotels, finance
-      firms, and handcrafted business - my designing range covers everything
-      from larger to smaller scales and requirements.
-
-
-      With a growing interest in the User Experience aspect of design, trying to
+      With growing interest in the User Experience aspect of design, trying to
       thoroughly understand the psychology behind our work & what I develop for
-      my clients, in order to utilize the tools that we designers have at hand
-      in hopes of providing better service, accessibility, and clarity.
+      my clients. To utilize the tools that we designers have at hand, in hopes
+      of providing better service, accessibility, and clarity.
 
 
-      A strong believer and supporter of the idea that in today's modern world,
-      we need to make sure that we communicate visually as well, if not better,
+      A  believer and supporter of the idea that in today's modern world, we
+      need to make sure that we communicate visually as well, if not better,
       than we do with our words.
     image_alt: Attending the Spaces of Oblivion Exhibition.
   - section_id: Work Experience
