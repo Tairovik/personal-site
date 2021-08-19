@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "blue",
-    "base_font": "system-sans",
+    "base_font": "fraunces",
     "header": {
         "title": "Tairovik Seid",
         "logo": "images/logo.svg",
