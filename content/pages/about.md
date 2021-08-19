@@ -116,7 +116,9 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Find out more about Tairovik Seid, designer focused on developing
+        brands, visual identities and UI & UX that gets the job done.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
