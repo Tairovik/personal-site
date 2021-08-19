@@ -35,17 +35,17 @@ sections:
   - section_id: Projects
     title: Projects
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      #### **Branding, Visual Identity **at [Sentido
+      Lounge](https://www.instagram.com/sentidolounge/)**&#xA;&#xA;Branding,
+      Visual Identity **at [The Scent
+      Corner](https://www.instagram.com/thescentcorner/)**&#xA;&#xA;Branding,
+      Visual Identity **at [Hotel
+      Paradise](https://www.behance.net/gallery/100948965/Hotel-Paradise-Branding)**&#xA;&#xA;Branding,
+      Web Design, UI / UX **at [Hindamy](https://hindamy.com/#/home)&#xA;
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      ####
     type: content_section
 seo:
   title: About Us
