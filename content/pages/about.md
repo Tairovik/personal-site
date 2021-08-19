@@ -52,8 +52,10 @@ sections:
       [Hindamy](https://hindamy.com/#/home)
 
 
-      #### Creating the visual identity, brand guidelines and UI / UX design of
-      an upcoming e-commerce platform in Kuwait.&#xA;&#xA;
+      Creating the visual identity, brand guidelines and UI / UX design of an
+      upcoming e-commerce platform in Kuwait.
+
+
 
 
       ####
