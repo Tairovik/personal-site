@@ -34,17 +34,7 @@ sections:
   - section_id: Work Experience
     title: Work Experience
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "*   **Assistant Professor** at the [International Balkan University](https://www.ibu.edu.mk/).\n    *2020-Now\n    *\n    Lecturing the courses of History of Architecture and Art I & II, and Introduction to Art and Culture.\_Easing their access to the knowledge by developing a website fully accessible at all times by the class attendees, containing their weekly assignments, presentations and study guides. Encouraging and supporting each individual in pursue of their improvement, both as a person and in knowledge.\n\n\n\n<!---->\n\n*   **Creative Director** at [The Sign](https://the-sign.co/)\n    *2018-Now*\n\n    Founder of a design studio. Covering all the areas of Graphic Design, ranging from Brand Development to UI / UX design. Delivering quality creative work, colaborating with various range of clients from all over the globe. Possessing honed visual communication and artistic instincts in order to develop work which will directly translate to our clients direct success.\n\n\n\n*   **Junior Architect **at [Radius Architects](http://www.radius.mk/)\n    *2017-2018*\n\n    Participating in conceptual design at the Architectural Studio in Skopje, providing technical & graphical support through projects. Undergoing drafting duties, supplying the Project Architect with materials and suggestions. Rendering three-dimensional previews, presentational posters and mock-ups of projects, such as building facades or interiors.\x03\n\n\n\n"
     type: content_section
 seo:
   title: About Us
