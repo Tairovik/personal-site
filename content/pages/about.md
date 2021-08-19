@@ -31,6 +31,22 @@ sections:
       we need to make sure that we communicate visually as well, if not better,
       than we do with our words.
     image_alt: Attending the Spaces of Oblivion Exhibition.
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
 seo:
   title: About Us
   description: This is the about us page
