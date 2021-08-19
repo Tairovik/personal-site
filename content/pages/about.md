@@ -33,7 +33,7 @@ sections:
     content: "#### **• Assistant Professor** at the [International Balkan University](https://www.ibu.edu.mk/)\n\n2020-Now\n\nLecturing the courses of History of Architecture and Art, Introduction to Art and Culture, and 2D Animation.\_Easing my students access to the knowledge by developing websites fully accessible at all times by the class attendees, containing their weekly assignments, presentations and study guides. Encouraging and supporting each individual in pursue of their improvement, both in knowledge and as a person.\n\n#### **• Creative Director** at [The Sign](https://the-sign.co/)\n\n2018-Now\n\nFounder of a design studio. Covering all the areas of Graphic Design, ranging from Brand Development to UI / UX design. Delivering quality creative work, collaborating with various range of clients from all over the globe. Possessing honed visual communication and artistic instincts in order to develop work which will directly translate to our clients direct success.\n\n#### **• Junior Architect** at [Radius Architects](http://www.radius.mk/)\n\n2017-2018\n\nParticipating in conceptual design at the Architectural Studio in Skopje, providing technical & graphical support through projects. Undergoing drafting duties, supplying the Project Architect with materials and suggestions. Rendering three-dimensional previews, presentational posters and mock-ups of projects, such as building facades or interiors.\x03\n"
     type: content_section
   - section_id: Projects
-    title: lorem-ipsum
+    title: Projects
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
