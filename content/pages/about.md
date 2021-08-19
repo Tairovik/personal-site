@@ -93,8 +93,8 @@ sections:
 seo:
   title: About
   description: >-
-    The about us page of Tairovik Seid, designer focused on developing brands,
-    UI & UX.
+    Find out more about Tairovik Seid, designer focused on developing brands,
+    visual identities and UI & UX that gets the job done.
   extra:
     - name: 'og:type'
       value: website
