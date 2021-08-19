@@ -36,13 +36,11 @@ sections:
     title: Projects
     image_alt: lorem-ipsum
     content: >
-      #### • Branding, Web Design at [AllUp](https://allup.ai/web/)
+      #### • Branding, Web Design at [All Up](https://allup.ai/web/)
 
 
       Developing the visual identity of a FinOps platform, focused on helping
       teams collaborate with their financial departments more fluidly.
-
-
 
 
       #### • Branding, Visual Identity at [Hype
@@ -52,7 +50,6 @@ sections:
       Developing the brand identity & designing all the necessary print & social
       media materials such as flyers, posters, and promotional videos for a
       night club.
-
 
 
       #### • Branding, Visual Identity at [Sentido
