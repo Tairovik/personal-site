@@ -36,15 +36,14 @@ sections:
     title: Projects
     image_alt: lorem-ipsum
     content: >
-      #### •Branding, Web Design at [AllUp](https://allup.ai/web/)
+      #### • Branding, Web Design at [AllUp](https://allup.ai/web/)
 
 
       Developing the visual identity of a FinOps platform, focused on helping
       teams collaborate with their financial departments more fluidly.
 
 
-
-      #### •Branding, Visual Identity at [Sentido
+      #### • Branding, Visual Identity at [Sentido
       Lounge](https://www.instagram.com/sentidolounge/)
 
 
@@ -52,21 +51,21 @@ sections:
       lounge bar at the city center in Skopje.
 
 
-      #### &#xA;•Branding, Visual Identity at [The Scent
+      #### &#xA;• Branding, Visual Identity at [The Scent
       Corner](https://www.instagram.com/thescentcorner/)
 
 
       Branding and packaging design of a handmade candle crafts business.
 
 
-      #### &#xA;•Branding, Visual Identity at [Hotel
+      #### &#xA;• Branding, Visual Identity at [Hotel
       Paradise](https://www.behance.net/gallery/100948965/Hotel-Paradise-Branding)
 
 
       Branding of a mountain side hotel & spa located near Sarajevo, Bosnia.
 
 
-      #### &#xA;•Branding, Web Design, UI / UX at
+      #### &#xA;• Branding, Web Design, UI / UX at
       [Hindamy](https://hindamy.com/#/home)
 
 
