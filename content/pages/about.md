@@ -31,7 +31,7 @@ sections:
       we need to make sure that we communicate visually as well, if not better,
       than we do with our words.
     image_alt: Attending the Spaces of Oblivion Exhibition.
-  - section_id: lorem-ipsum
+  - section_id: Work Experience
     title: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
