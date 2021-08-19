@@ -108,7 +108,7 @@ seo:
         brands, visual identities and UI & UX that gets the job done.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/IMG_0803.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
