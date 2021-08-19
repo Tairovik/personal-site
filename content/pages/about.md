@@ -43,6 +43,18 @@ sections:
       teams collaborate with their financial departments more fluidly.
 
 
+
+
+      #### • Branding, Visual Identity at [Hype
+      Club](https://www.instagram.com/hype.skopje/)
+
+
+      Developing the brand identity & designing all the necessary print & social
+      media materials such as flyers, posters, and promotional videos for a
+      night club.
+
+
+
       #### • Branding, Visual Identity at [Sentido
       Lounge](https://www.instagram.com/sentidolounge/)
 
