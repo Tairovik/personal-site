@@ -103,7 +103,9 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Find out more about Tairovik Seid, designer focused on developing
+        brands, visual identities and UI & UX that gets the job done.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
