@@ -32,7 +32,7 @@ sections:
       than we do with our words.
     image_alt: Attending the Spaces of Oblivion Exhibition.
   - section_id: Work Experience
-    title: lorem-ipsum
+    title: Work Experience
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
