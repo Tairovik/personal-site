@@ -92,7 +92,9 @@ sections:
     type: content_section
 seo:
   title: About
-  description: This is the about us page
+  description: >-
+    The about us page of Tairovik Seid, designer focused on developing brands,
+    UI & UX.
   extra:
     - name: 'og:type'
       value: website
