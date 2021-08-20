@@ -55,6 +55,8 @@ sections:
           *   User Interface Design
           *   Customer Journey Mapping
           *   Wireframe Design
+          *   Visual Consistency Guidance
+          *   High-Fidelity Design
           *   Interactive Prototyping
           *   Digital Testing
       - title: Experience design
