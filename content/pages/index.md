@@ -60,9 +60,12 @@ sections:
       - title: Experience design
         image: images/service-3.svg
         content: |
-          *   User Testing
+          *   User Behavior Research
+          *   Persona Development
+          *   Information Architecture
           *   Customer Experience Journey
-          *
+          *   User Expectations Matching
+          *   User Testing
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
