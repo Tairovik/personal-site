@@ -51,14 +51,12 @@ sections:
           *   Brand Implementation & Management
       - title: User Interface
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   User Interface Design
+          *   Customer Journey Mapping
+          *   Wireframe Design
+          *   Interactive Prototyping
+          *   Digital Testing
       - title: Experience design
         image: images/service-3.svg
         content: |-
