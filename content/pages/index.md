@@ -68,6 +68,7 @@ sections:
           *   Customer Experience Journey
           *   User Expectations Matching
           *   User Testing
+          *   Product Testing
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
