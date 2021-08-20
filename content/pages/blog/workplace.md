@@ -1,5 +1,5 @@
 ---
-title: The Elements of Great Workplace Design
+title: Performance Optimization as a Designer
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
