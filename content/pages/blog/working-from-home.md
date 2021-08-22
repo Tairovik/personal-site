@@ -10,7 +10,7 @@ thumb_image_alt: White wooden table with a chair
 image: images/post-5.jpg
 image_alt: White wooden table with a chair
 seo:
-  title: The Advantages and Disadvantages of Working from Home
+  title: Conducting User Research
   description: Interdum posuere lorem ipsum dolor sit amet consectetur
   extra:
     - name: 'og:type'
