@@ -1,6 +1,6 @@
 ---
 title: Journal
-subtitle: 'News, tips and highlights'
+subtitle: My thoughts regarding design & it's practice
 hide_title: false
 col_number: three
 seo:
