@@ -40,6 +40,7 @@ seo:
       value: images/post-6.jpg
       relativeUrl: true
 layout: post
+image: /images/post-6-thumb.jpg
 ---
 As a performer of creative art, it is of vital importance to develop your own craft of design - a visual aesthetic that defines what you create and your creative abilities. Whether you call them your skills, talent, or style - develop it and own it.  The inner monologue that you use to evaluate how good, beautiful, or logical an idea is - becomes the mysterious thing that makes what you create truly yours. It is a personal battle to create something better than your previous creative effort created. Those kinds of acts always possess a degree of unknown magic, that magical thinking.
 
