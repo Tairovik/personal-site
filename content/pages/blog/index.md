@@ -1,6 +1,6 @@
 ---
 title: Journal
-subtitle: My thoughts regarding design & it's practice
+subtitle: My thoughts regarding design & its practice
 hide_title: false
 col_number: three
 seo:
