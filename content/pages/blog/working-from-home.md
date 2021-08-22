@@ -11,7 +11,7 @@ image: images/post-5.jpg
 image_alt: White wooden table with a chair
 seo:
   title: Conducting User Research
-  description: Interdum posuere lorem ipsum dolor sit amet consectetur
+  description: 'How to conduct good user research, and why it is of such importance.'
   extra:
     - name: 'og:type'
       value: article
