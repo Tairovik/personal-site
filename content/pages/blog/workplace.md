@@ -1,8 +1,9 @@
 ---
 title: Performance Optimization as a Designer
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  How to find your inner creative and practice discipline whilst seeking
+  perfection - pushing yourself beyond what you previously thought the final
+  line was.
 date: '2021-08-21'
 thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
