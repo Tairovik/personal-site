@@ -1,6 +1,6 @@
 ---
 title: Afdal Analytics
-subtitle: lorem-ipsum
+subtitle: Web App UI / UX Development
 date: '2021-08-25'
 thumb_image_alt: lorem-ipsum
 sections: []
