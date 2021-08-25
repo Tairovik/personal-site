@@ -13,7 +13,7 @@ sections:
     layout_style: tiles
     title: Recent Work
     subtitle: Explore my projects
-    projects_number: 6
+    projects_number: 3
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
