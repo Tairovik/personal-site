@@ -10,7 +10,7 @@ sections:
       enables your organization to grow. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic
+    layout_style: tiles
     title: Recent Work
     subtitle: Explore my projects
     projects_number: 6
