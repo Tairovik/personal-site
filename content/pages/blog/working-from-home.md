@@ -55,3 +55,5 @@ It takes the designer skills to make them reveal their actual needs and behavior
 If done right, User Research is the strongest foundation for everything that follows. Having a deep and reliable understanding of our users and their problems can empower a team and lead it towards the right direction like no other thing.
 
 Decisions become easy because we no longer have to guess. With this knowledge, we are able to create products orders-of-magnitude better, and save ourselves great amounts of time by avoiding rework.
+
+# So, how do we conduct the proper user research?
