@@ -57,3 +57,20 @@ If done right, User Research is the strongest foundation for everything that fol
 Decisions become easy because we no longer have to guess. With this knowledge, we are able to create products orders of magnitude better and save ourselves great amounts of time by avoiding rework.
 
 # So, how do we conduct the proper user research?
+
+#### Define your Research Objectives
+
+What is it exactly that we're trying to learn? Write down your research objectives before doing anything else. We usually aim for 3 to 7 objectives per project.
+Examples of what we are trying to learn are:
+
+*   **Goals or motivation** - what are our users goals?
+
+*   **Behavior **- what kind of actions does our user typically take, and in what order?
+
+*   **Knowledge **- which common knowledge for our design does the user posses? 
+
+*   **Situations **- what kind of situations is our target audience often in?
+
+*   **Decision-making process **- how does our user evaluate and act in our environment?
+
+We want to understand our actual users, but also need to understand their ecosystem.
