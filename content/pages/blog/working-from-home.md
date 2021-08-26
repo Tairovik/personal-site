@@ -76,10 +76,15 @@ Examples of what we are trying to learn are:
 We want to understand our actual users, but also need to understand their ecosystem. Interview users with a different range of experiences and backgrounds. In some cases, you might also want to interview non-users that have a supporting role in order to understand the issue at hand on a deeper level.
 Let's say you were to do user research for an e-commerce website, you'd start it with interviewing people with different shopping habits (one-time buyers, regular buyers, company accounts, …), people using the competition, customer support, etc.
 
-#### Ask for your users' stories. 
+#### Ask for your users' stories.
 
-There is no better way of gaining information from your users. When your interviewees tell you stories about their experiences - they will also parallelly be answering many of your questions at once. Open-ended questions are the way to go about it - giving your user the chance and space to fully express what they feel. 
+There is no better way of gaining information from your users. When your interviewees tell you stories about their experiences - they will also parallelly be answering many of your questions at once. Open-ended questions are the way to go about it - giving your user the chance and space to fully express what they feel.
 
 #### Try to stay away from opinions
 
-Never ask your users what they want. Designers are not the user, and the users are not designers.
+Never ask your users what they want. Designers are not the user, and the users are not designers. Do not talk about your idea - in doing so we only skew the data as it is in our nature to twist the narrative in order to tell you what you want to hear. 
+
+#### Summarizing things
+
+Take as many notes as possible. Making sure to write all the feedback that you get from your interview is very important, as our findings will be backed up and based on it. After completing the research, start looking for patterns. After identifying them, the next step is to create systems that will help your team build the best product or service. Those can be user personas, customer profiles, experience maps, behavior patterns, strategy canvas, and so on. Remember that everything we build and create is for our users sake, as such, we should communicate to them as much as possible in order to get the clearest understanding of their requires & needs.
+
