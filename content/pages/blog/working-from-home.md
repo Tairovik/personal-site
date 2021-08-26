@@ -48,12 +48,12 @@ Designers need to go against this bias by interacting with their users as much a
 
 Only talking to our users does not automatically yield useful insights, and very often it can actually lead us in the wrong direction. Users don’t purposely lie to us, but *things people say* are different from *things people actually do*.
 
-It takes the designer skills to make them reveal their actual needs and behaviors. Without them, the user research becomes useless at best and misleading at worst.
+It takes the designer's skills to make them reveal their actual needs and behaviors. Without them, the user research becomes useless at best and misleading at worst.
 
 #### Make the problem clear
 
-If done right, User Research is the strongest foundation for everything that follows. Having a deep and reliable understanding of our users and their problems can empower a team and lead it towards the right direction like no other thing.
+If done right, User Research is the strongest foundation for everything that follows. Having a deep and reliable understanding of our users and their problems can empower a team and lead it in the right direction like no other thing.
 
-Decisions become easy because we no longer have to guess. With this knowledge, we are able to create products orders-of-magnitude better, and save ourselves great amounts of time by avoiding rework.
+Decisions become easy because we no longer have to guess. With this knowledge, we are able to create products orders of magnitude better and save ourselves great amounts of time by avoiding rework.
 
 # So, how do we conduct the proper user research?
