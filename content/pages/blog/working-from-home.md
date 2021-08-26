@@ -36,25 +36,21 @@ seo:
       relativeUrl: true
 layout: post
 ---
-## Why is user research so important?
+# Why is user research so important?
 
-##### We are not the user
+#### We are not the user
 
 What we often do is assume, without realizing it, that our users think as we think and like what we like. What we get is generalizing based on our own experience, which is actually a cognitive bias called the *availability bias*.
 
 Designers need to go against this bias by interacting with their users as much as possible.
 
-
-
-##### Users don't always tell the truth
+#### Users don't always tell the truth
 
 Only talking to our users does not automatically yield useful insights, and very often it can actually lead us in the wrong direction. Users don’t purposely lie to us, but *things people say* are different from *things people actually do*.
 
 It takes the designer skills to make them reveal their actual needs and behaviors. Without them, the user research becomes useless at best and misleading at worst.
 
-
-
-##### Make the problem clear
+#### Make the problem clear
 
 If done right, User Research is the strongest foundation for everything that follows. Having a deep and reliable understanding of our users and their problems can empower a team and lead it towards the right direction like no other thing.
 
