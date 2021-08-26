@@ -1,9 +1,8 @@
 ---
 title: 'Conducting User Research, and why it is so important'
 excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit.
+  Communicating to users is one of the highest-leverage activities an
+  organization can invest in, but is also a diffuclt one to get right.
 date: '2021-08-09'
 thumb_image: images/post-5-thumb.jpg
 thumb_image_alt: White wooden table with a chair
