@@ -65,12 +65,12 @@ Examples of what we are trying to learn are:
 
 *   **Goals or motivation** - what are our users goals?
 
-*   **Behavior **- what kind of actions does our user typically take, and in what order?
+*   **Behavior** - what kind of actions does our user typically take, and in what order?
 
-*   **Knowledge **- which common knowledge for our design does the user posses?
+*   **Knowledge** - which common knowledge for our design does the user posses?
 
-*   **Situations **- what kind of situations is our target audience often in?
+*   **Situations** - what kind of situations is our target audience often in?
 
-*   **Decision-making process **- how does our user evaluate and act in our environment?
+*   **Decision-making process** - how does our user evaluate and act in our environment?
 
 We want to understand our actual users, but also need to understand their ecosystem.
