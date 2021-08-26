@@ -73,4 +73,13 @@ Examples of what we are trying to learn are:
 
 *   **Decision-making process** - how does our user evaluate and act in our environment?
 
-We want to understand our actual users, but also need to understand their ecosystem.
+We want to understand our actual users, but also need to understand their ecosystem. Interview users with a different range of experiences and backgrounds. In some cases, you might also want to interview non-users that have a supporting role in order to understand the issue at hand on a deeper level.
+Let's say you were to do user research for an e-commerce website, you'd start it with interviewing people with different shopping habits (one-time buyers, regular buyers, company accounts, …), people using the competition, customer support, etc.
+
+#### Ask for your users' stories. 
+
+There is no better way of gaining information from your users. When your interviewees tell you stories about their experiences - they will also parallelly be answering many of your questions at once. Open-ended questions are the way to go about it - giving your user the chance and space to fully express what they feel. 
+
+#### Try to stay away from opinions
+
+Never ask your users what they want. Designers are not the user, and the users are not designers.
