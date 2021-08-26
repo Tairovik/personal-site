@@ -67,7 +67,7 @@ Examples of what we are trying to learn are:
 
 *   **Behavior **- what kind of actions does our user typically take, and in what order?
 
-*   **Knowledge **- which common knowledge for our design does the user posses? 
+*   **Knowledge **- which common knowledge for our design does the user posses?
 
 *   **Situations **- what kind of situations is our target audience often in?
 
