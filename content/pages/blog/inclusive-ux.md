@@ -1,6 +1,6 @@
 ---
 title: Designing Inclusive User Experiences
-subtitle: How important is it to consider mental health
+subtitle: How important is it to consider mental health in our design
 date: '2021-08-28'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
