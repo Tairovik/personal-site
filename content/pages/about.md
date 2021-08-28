@@ -21,11 +21,6 @@ sections:
       thoroughly understand the psychology behind our work & what I develop for
       my clients. To utilize the tools that we designers have at hand, in hopes
       of providing better service, accessibility, and clarity.
-
-
-      A  believer and supporter of the idea that in today's modern world, we
-      need to make sure that we communicate visually as well, if not better,
-      than we do with our words.
     image_alt: Attending the Spaces of Oblivion Exhibition.
   - section_id: Work Experience
     title: Work Experience
