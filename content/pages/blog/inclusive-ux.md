@@ -14,5 +14,5 @@ seo:
 layout: post
 image: /images/undraw_Meditating_re_aiqa.png
 ---
-## Lorem ipsum
+Accessibility continues to be an important topic across multiple industries, yet mental health, and specifically anxiety, don’t often immediately come to mind as a piece of the puzzle.
 
