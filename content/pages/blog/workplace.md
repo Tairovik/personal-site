@@ -5,7 +5,7 @@ excerpt: >-
   perfection - pushing yourself beyond what you previously thought the final
   line was.
 date: '2021-08-21'
-thumb_image: images/post-6-thumb.jpg
+thumb_image: /images/undraw_Development_re_g5hq.png
 thumb_image_alt: White desk lamp beside green plant
 image_alt: White desk lamp beside green plant
 seo:
