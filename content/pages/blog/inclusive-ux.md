@@ -1,6 +1,6 @@
 ---
 title: Designing Inclusive User Experiences
-subtitle: lorem-ipsum
+subtitle: How important is it to
 date: '2021-08-28'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
