@@ -15,5 +15,4 @@ layout: post
 image: /images/undraw_Meditating_re_aiqa.png
 thumb_image: /images/undraw_Meditating_re_aiqa.png
 ---
-Accessibility continues to be an important topic across multiple industries, yet mental health, and specifically anxiety, don’t often immediately come to mind as a piece of the puzzle.
-
+Accessibility remains one of the most important topics across multiple industries, yet mental health, and specifically anxiety, don’t often immediately come to mind as a piece of the puzzle.
