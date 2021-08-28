@@ -4,7 +4,7 @@ excerpt: >-
   Why communicating to users is one of the highest-leverage activities an
   organization can invest in, and how do we get it right?
 date: '2021-08-09'
-thumb_image: images/post-5-thumb.jpg
+thumb_image: /images/undraw_Development_re_g5hq.png
 thumb_image_alt: White wooden table with a chair
 image: /images/undraw_Development_re_g5hq.png
 image_alt: White wooden table with a chair
