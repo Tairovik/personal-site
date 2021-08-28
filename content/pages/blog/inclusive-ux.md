@@ -1,5 +1,5 @@
 ---
-title: Inclusive UX Design
+title: Designing Inclusive User Experiences
 subtitle: lorem-ipsum
 date: '2021-08-28'
 thumb_image_alt: lorem-ipsum
