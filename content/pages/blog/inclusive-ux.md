@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Inclusive UX Design
 subtitle: lorem-ipsum
 date: '2021-08-28'
 thumb_image_alt: lorem-ipsum
