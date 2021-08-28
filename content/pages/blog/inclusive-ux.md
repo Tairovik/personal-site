@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+image: /images/undraw_Meditating_re_aiqa.png
 ---
 ## Lorem ipsum
 
