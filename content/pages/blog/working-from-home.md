@@ -6,7 +6,7 @@ excerpt: >-
 date: '2021-08-09'
 thumb_image: images/post-5-thumb.jpg
 thumb_image_alt: White wooden table with a chair
-image: /images/undraw_absorbed_in_xahs.png
+image: /images/undraw_Development_re_g5hq.png
 image_alt: White wooden table with a chair
 seo:
   title: Conducting User Research
