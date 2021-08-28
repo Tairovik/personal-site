@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 image: /images/undraw_Meditating_re_aiqa.png
-thumb_image: /images/undraw_Development_re_g5hq-a14ff64b.png
+thumb_image: /images/undraw_Meditating_re_aiqa.png
 ---
 Accessibility continues to be an important topic across multiple industries, yet mental health, and specifically anxiety, don’t often immediately come to mind as a piece of the puzzle.
 
