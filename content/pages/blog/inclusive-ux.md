@@ -25,7 +25,7 @@ The first step would be to make sure to distinguish between a technical glitch a
 
 Look at it this way - is there any chance for our users to remember every account they've ever created, especially with all the different password requirements? Adding on top of that platforms which we use maybe once or twice a year, or somewhere we create an account in the middle of another longer form - or ones created for us by our employers and such?
 
-### So, what can we do about it?
+### So, what can we do about it?&#xA;&#xA;
 
 It is very easy for us as designers to make decisions based on how we and our teams typically interact with products, especially in the digital sphere. But when we do so, we further alienate from those who are not so familiar with or anxious around technology. So what we end up doing is, instead of bringing technology closer to them - we push it away.
 
