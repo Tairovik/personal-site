@@ -19,5 +19,6 @@ Accessibility remains one of the most important topics across multiple industrie
 
 As designers, we need to ask ourselves - what mental health hurdles may be unintentional consequences of our work?
 
-
 Even though our world is becoming significantly digital, we need to think of how difficult certain digital forms can be in terms of accessibility. Certain health conditions & disabilities and their side effects, such as insomnia, headaches, fatigue, etc. come in many forms and make the digital world difficult for the user.
+
+The first step would be to make sure to distinguish between a technical glitch and human error. Without proper messaging to explain the cause and the next steps, some maybe completely lost - continuing to beat themselves up for thinking they made a mistake. And if it is a human error, make sure to nicely communicate it to them on how to fix it, or better yet to see what we could do to prevent it in first place.
