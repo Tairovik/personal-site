@@ -1,6 +1,6 @@
 ---
 title: Red Castle Capital Partners
-subtitle: lorem-ipsum
+subtitle: 'Branding, Web Design'
 date: '2021-08-30'
 thumb_image_alt: lorem-ipsum
 sections: []
