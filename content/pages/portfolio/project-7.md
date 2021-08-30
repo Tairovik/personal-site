@@ -8,7 +8,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/Home.png
+    image: /images/undraw_Development_re_g5hq.png
   - content: >-
       ## Lorem ipsum
 
