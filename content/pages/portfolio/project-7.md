@@ -5,7 +5,7 @@ date: '2021-08-30'
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Logo Design
     width: regular
     type: image_section
     image: /images/undraw_Development_re_g5hq.png
