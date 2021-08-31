@@ -25,7 +25,7 @@ sections:
     caption: Web Design
     width: regular
     type: image_section
-    image: /images/undraw_Development_re_g5hq.png
+    image: /images/Minimal Website Mockup.png
   - content: |
       The branding used across the web design for Red Castle Capital Partners.
     type: text_section
