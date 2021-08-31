@@ -44,7 +44,12 @@ sections:
   - content: >
       Designing the admin dashboard with simplicity & efficacy on mind. Making
       sure that its' users will have a clear view on what's going on the
-      platform, with intuitive controls to provide ease of control.
+      platform, with intuitive controls to provide ease of control. 
+
+
+      With a usability first approach, all of the required functions are no more
+      than two interactions away, which makes the workflow of the admin fluid
+      and in turn increases their productivity. 
     type: text_section
 seo:
   title: Afdal Analytics
