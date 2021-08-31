@@ -6,7 +6,7 @@ thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: lorem-ipsum
     caption: Web Design
-    width: regular
+    width: wide
     type: image_section
     image: /images/Afdal Analytics Home Page.png
 seo:
