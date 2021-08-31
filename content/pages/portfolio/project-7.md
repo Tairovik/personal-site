@@ -9,7 +9,7 @@ sections:
     width: wide
     type: image_section
     image: /images/RCCP Logo-01.png
-  - content: "The Red Castle of Tripoli is the main cornerstone of the brand identity which I developed. The logo is made out of de-constructed minimalist\r\nrendering of the castle tower, with the symbolic window opening on it. As a core logo piece, we pick out the top right corner.\x03\n"
+  - content: "The Red Castle of Tripoli is the main cornerstone of the brand identity which I developed. The logo is made out of de-constructed minimalist\r\nrendering of the castle tower, with the symbolic window opening on it. As a core logo piece, we pick out the top right corner. Representing trust, safety, sovereignty, strategy and wealth - the values which the brand stands for.\n\n"
     type: text_section
   - image_alt: RCCP Typography & Color
     caption: Color Palette & Typography
