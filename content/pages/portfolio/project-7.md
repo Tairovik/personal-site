@@ -9,9 +9,7 @@ sections:
     width: wide
     type: image_section
     image: /images/RCCP Logo-01.png
-  - content: >
-      Story behind the Red Castle Capital Brand, and the thought process behind
-      the logo. The Red Castle in Libya
+  - content: "The Red Castle of Tripoli is the main cornerstone of the brand identity which I developed. The logo is made out of de-constructed minimalist\r\nrendering of the castle tower, with the symbolic window opening on it. As a core logo piece, we pick out the top right corner.\x03\n"
     type: text_section
   - image_alt: RCCP Typography & Color
     caption: Color Palette & Typography
