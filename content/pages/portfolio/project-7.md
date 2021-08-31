@@ -23,7 +23,7 @@ sections:
     type: text_section
   - image_alt: RCCP Web Design
     caption: Web Design
-    width: regular
+    width: wide
     type: image_section
     image: /images/Minimal Website Mockup.png
   - content: |
