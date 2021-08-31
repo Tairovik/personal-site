@@ -15,7 +15,7 @@ sections:
       and use of the data they need to drive their businesses forward.
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Account & Team
     width: wide
     type: image_section
     image: /images/Afdal Team Screens.png
