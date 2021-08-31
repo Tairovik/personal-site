@@ -25,6 +25,7 @@ sections:
     caption: Web Design
     width: regular
     type: image_section
+    image: /images/undraw_Development_re_g5hq.png
 seo:
   title: ''
   description: ''
