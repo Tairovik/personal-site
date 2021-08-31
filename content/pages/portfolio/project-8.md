@@ -15,6 +15,12 @@ sections:
       and use of the data they need to drive their businesses forward.
 
 
+      Starting from the low fidelity mockups, and getting all the way to the
+      final screens is always a process of trial and error. This ensures that
+      the product which we create is fully up for the purpose & the users it
+      needs to serve.
+
+
       Making sure that throughout the whole design process of the project we
       meet our user's needs, provide clear hierarchy in terms of which elements
       and controls are more important - thus keeping the consistency and
