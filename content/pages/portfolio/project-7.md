@@ -34,17 +34,12 @@ sections:
     width: wide
     type: image_section
     image: /images/Red Castle Website Showcase 2.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: >
+      Through the usage of our brand design assets, we manage to get the website
+      looking creative & modern. A significant touch to the design aspect, is
+      the usage of our castle element of the logo, as a watermark on top of our
+      pictorial content. It gives a positive increase to the branding sense, and
+      ties the whole project well together.
     type: text_section
 seo:
   title: Red Castle Capital Partners
