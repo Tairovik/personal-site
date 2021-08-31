@@ -49,7 +49,7 @@ sections:
       not compromising any accessibility or legibility for the price of looks. 
 seo:
   title: All Up
-  description: This is the sample project description
+  description: Development of the brand & UI / UX of a Fintech Startup
   extra:
     - name: 'og:type'
       value: website
