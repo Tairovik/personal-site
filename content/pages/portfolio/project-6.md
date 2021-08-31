@@ -53,7 +53,7 @@ sections:
       style.
     type: text_section
 seo:
-  title: Subtle
+  title: 'Logofolio #1'
   description: This is the sample project description
   extra:
     - name: 'og:type'
