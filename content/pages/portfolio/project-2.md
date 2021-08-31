@@ -49,7 +49,7 @@ sections:
       such that the branding can be used and evolved in the future based on the
       needs of the clients business.
 seo:
-  title: Aimi
+  title: Paradise
   description: This is the sample project description
   extra:
     - name: 'og:type'
