@@ -13,7 +13,7 @@ sections:
       Story behind the Red Castle Capital Brand, and the thought process behind
       the logo. The Red Castle in Libya
     type: text_section
-  - image_alt: 'RCCP '
+  - image_alt: RCCP Web Design
     caption: lorem-ipsum
     width: regular
     type: image_section
