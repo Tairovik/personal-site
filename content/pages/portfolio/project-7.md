@@ -21,7 +21,7 @@ sections:
   - content: |
       Typography and Color Palette choices explained.
     type: text_section
-  - image_alt: lorem-ipsum
+  - image_alt: RCCP Web Design
     caption: Web Design
     width: regular
     type: image_section
