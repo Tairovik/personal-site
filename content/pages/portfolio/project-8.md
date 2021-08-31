@@ -5,7 +5,7 @@ date: '2021-08-31'
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Web Design
     width: regular
     type: image_section
 seo:
