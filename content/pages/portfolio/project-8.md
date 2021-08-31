@@ -12,7 +12,9 @@ sections:
   - content: >
       The landing & supporting pages for the upcoming analytics platform in the
       Middle East & North Africa Region. Focusing on giving its user easy access
-      and use of the data they need to drive their businesses forward.
+      and use of the data they need to drive their businesses forward -
+      increasing their marketing performance through intelligent data solutions
+      which the platform provides.
 
 
       Starting from the low fidelity mockups, and getting all the way to the
