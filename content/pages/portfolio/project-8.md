@@ -29,6 +29,12 @@ sections:
       The account & team pages for the users of the platform, where they can
       organize their data pipes, check their data usage, manage their teams, and
       integrate the data sources with other instances.
+
+
+      They were designed to help our users recognize & diagnose everything that
+      is happening with their data. Without overwhelming the visual aspect, the
+      minimalism helps us showcase what is of most importance, which helps out
+      users focus on their goals without any distraction.
     type: text_section
   - image_alt: Afdal Analytics Dashbaord
     caption: Dashboard Design
