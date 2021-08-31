@@ -27,17 +27,8 @@ sections:
     width: wide
     type: image_section
     image: /images/Afdal Dashboard Screen.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      Designing the admin dashboard with simplicity & efficacy.
     type: text_section
 seo:
   title: ''
