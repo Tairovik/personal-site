@@ -28,7 +28,7 @@ sections:
     image: /images/Red Castle Website Showcase 1.png
   - image_alt: RCCP Web Design 2
     caption: lorem-ipsum
-    width: regular
+    width: wide
     type: image_section
     image: /images/Red Castle Website Showcase 2.png
 seo:
