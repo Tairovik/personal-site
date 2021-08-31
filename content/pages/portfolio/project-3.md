@@ -44,7 +44,7 @@ sections:
       feelings gained from the show as a preview to the observer's eye.
 seo:
   title: Spaces of Oblivion
-  description: This is the sample project description
+  description: Design of the Poster & Catalogue for the Spaces of Oblivion Exhibition
   extra:
     - name: 'og:type'
       value: website
