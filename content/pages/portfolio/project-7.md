@@ -22,7 +22,7 @@ sections:
       Typography and Color Palette choices explained.
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Web Design
     width: regular
     type: image_section
 seo:
