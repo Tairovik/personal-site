@@ -32,7 +32,7 @@ sections:
     type: text_section
 seo:
   title: Afdal Analytics
-  description: ''
+  description: The UI / UX &  Web App design of an upcoming analytics platform
   robots: []
   extra: []
   type: stackbit_page_meta
