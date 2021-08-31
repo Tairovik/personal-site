@@ -17,7 +17,7 @@ sections:
     caption: Color Palette & Typography
     width: wide
     type: image_section
-    image: /images/RCCP Logo & Color & Typography-02.png
+    image: /images/RCCP Color & Typgoraphy-02.png
   - content: |
       Typography and Color Palette choices explained.
     type: text_section
