@@ -27,8 +27,10 @@ sections:
     width: wide
     type: image_section
     image: /images/Afdal Dashboard Screen.png
-  - content: |
-      Designing the admin dashboard with simplicity & efficacy.
+  - content: >
+      Designing the admin dashboard with simplicity & efficacy on mind. Making
+      sure that its' users will have a clear view on what's going on the
+      platform, with intuitive controls to provide ease of control.
     type: text_section
 seo:
   title: Afdal Analytics
