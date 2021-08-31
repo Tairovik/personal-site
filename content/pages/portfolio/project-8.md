@@ -38,7 +38,7 @@ sections:
 
       - dolor sit amet
     type: text_section
-  - image_alt: lorem-ipsum
+  - image_alt: Afdal Analytics Dashbaord
     caption: lorem-ipsum
     width: wide
     type: image_section
