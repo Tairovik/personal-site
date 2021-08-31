@@ -2,7 +2,7 @@
 title: All Up
 subtitle: 'Brand Development, UI / UX, WebApp'
 date: '2020-05-10'
-thumb_image: /images/Thumbnail.png
+thumb_image: /images/Thumbnail Website-08.png
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section

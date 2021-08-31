@@ -2,7 +2,7 @@
 title: Paradise Hotel & Spa
 subtitle: Brand Development
 date: '2020-03-10'
-thumb_image: /images/Paradise Behance Thumbnail 2.jpg
+thumb_image: /images/Project Thumbnail-09.png
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section
