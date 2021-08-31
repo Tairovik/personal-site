@@ -19,12 +19,11 @@ sections:
   - content: >
       Going for the colors which we chose for our palette, represent the same
       values which are mentioned in our logo designing process -  the trust,
-      sovereignty, strategy & wealth.
+      safety, sovereignty, strategy & wealth. 
 
 
-      The typography is composed of the sleek looking Montserrat which we use
-      across the User Interface & Body Paragraphs, and the Merriweather serif
-      font as a Header choice.
+      The typography is composed of the sleek looking Open Sans which we use
+      across  and the Trirong serif font as a Header choice.
     type: text_section
   - image_alt: RCCP Web Design
     width: wide
