@@ -6,7 +6,7 @@ thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: RCCP Logo Design
     caption: Logo Design
-    width: regular
+    width: wide
     type: image_section
     image: /images/RCCP Logo & Color & Typography-01.png
   - content: >
