@@ -30,7 +30,7 @@ sections:
       The branding used across the web design for Red Castle Capital Partners.
     type: text_section
 seo:
-  title: ''
+  title: Red Castle Capital Partners
   description: ''
   robots: []
   extra: []
