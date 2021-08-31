@@ -31,7 +31,7 @@ sections:
     type: text_section
 seo:
   title: Red Castle Capital Partners
-  description: The branding & web design done for the L
+  description: The branding & web design done for the RCCP investment group
   robots: []
   extra: []
   type: stackbit_page_meta
