@@ -19,11 +19,11 @@ sections:
   - content: >
       Going for the colors which we chose for our palette, represent the same
       values which are mentioned in our logo designing process -  the trust,
-      safety, sovereignty, strategy & wealth. 
+      safety, sovereignty, strategy & wealth.
 
 
-      The typography is composed of the sleek looking Open Sans which we use
-      across  and the Trirong serif font as a Header choice.
+      A timeless combination between a Serif & Sans Serif typography - we're
+      going for the sleek looking Open Sans and the Trirong serif font.
     type: text_section
   - image_alt: RCCP Web Design
     width: wide
