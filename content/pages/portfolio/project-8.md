@@ -25,6 +25,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/Afdal Team Screens.png
 seo:
   title: ''
   description: ''
