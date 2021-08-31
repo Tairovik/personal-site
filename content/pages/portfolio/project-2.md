@@ -50,7 +50,7 @@ sections:
       needs of the clients business.
 seo:
   title: Paradise
-  description: This is the sample project description
+  description: Brand development for Paradise Hotel & Spa complex
   extra:
     - name: 'og:type'
       value: website
