@@ -26,9 +26,6 @@ sections:
     width: wide
     type: image_section
     image: /images/Red Castle Website Showcase 1.png
-  - content: |
-      The branding used across the web design for Red Castle Capital Partners.
-    type: text_section
 seo:
   title: Red Castle Capital Partners
   description: The branding & web design done for the RCCP investment group
