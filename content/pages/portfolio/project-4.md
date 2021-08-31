@@ -48,7 +48,7 @@ sections:
       We also made sure for the whole user experience to be at it's pinnacle -
       not compromising any accessibility or legibility for the price of looks. 
 seo:
-  title: Nature Mockup Magazine
+  title: All Up
   description: This is the sample project description
   extra:
     - name: 'og:type'
