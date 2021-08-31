@@ -52,7 +52,7 @@ sections:
     type: text_section
 seo:
   title: Hindamy
-  description: This is the sample project description
+  description: Brand development and UI / UX design done for a Kuwaiti E-Commerce Start Up
   extra:
     - name: 'og:type'
       value: website
