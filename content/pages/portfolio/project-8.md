@@ -9,10 +9,19 @@ sections:
     width: wide
     type: image_section
     image: /images/Afdal Analytics Home.png
-  - content: >
+  - content: >+
       The landing & supporting pages for the upcoming analytics platform in the
       Middle East & North Africa Region. Focusing on giving its user easy access
-      and use of the data they need to drive their businesses forward.
+      and use of the data they need to drive their businesses forward. 
+
+
+      I also made sure that throughout the whole project we meet our user's
+      needs, provide clear hierarchy in terms of which elements and controls are
+      more important, and keeping the consistency and standards at a familiar
+      look and feel.
+
+
+
     type: text_section
   - image_alt: lorem-ipsum
     caption: Account & Team
