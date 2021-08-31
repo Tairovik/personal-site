@@ -39,7 +39,7 @@ sections:
       text and picture layouts in harmony. Our priority was accessibility and
       ease of use, and understanding of content for the readers.
 seo:
-  title: Nature Magazine
+  title: US Aid Health Manual
   description: This is the sample project description
   extra:
     - name: 'og:type'
