@@ -40,7 +40,7 @@ sections:
       ease of use, and understanding of content for the readers.
 seo:
   title: US Aid Health Manual
-  description: This is the sample project description
+  description: Designing a Mental & Physical Health Manual in collaboration with US Aid
   extra:
     - name: 'og:type'
       value: website
