@@ -18,7 +18,8 @@ sections:
     image: /images/RCCP Color & Typgoraphy-02.png
   - content: >
       Going for the colors which we chose for our palette, represent the same
-      values which are mentioned in our logo designing process -  the same 
+      values which are mentioned in our logo designing process -  the trust,
+      sovereignty, strategy & wealth.
 
 
       The typography is composed of the sleek looking Montserrat which we use
