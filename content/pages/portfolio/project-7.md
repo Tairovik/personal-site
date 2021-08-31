@@ -17,6 +17,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/undraw_Development_re_g5hq-a14ff64b.png
 seo:
   title: ''
   description: ''
