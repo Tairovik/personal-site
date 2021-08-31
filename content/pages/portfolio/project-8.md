@@ -25,8 +25,10 @@ sections:
     width: wide
     type: image_section
     image: /images/Afdal Team Screens.png
-  - content: |
-      The account & team pages for the users of the platform.
+  - content: >
+      The account & team pages for the users of the platform, where they can
+      organize their data pipes, check their data usage, manage their teams, and
+      integrate the data sources with other instances.
     type: text_section
   - image_alt: Afdal Analytics Dashbaord
     caption: Dashboard Design
