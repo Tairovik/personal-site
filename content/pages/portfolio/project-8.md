@@ -15,10 +15,10 @@ sections:
       and use of the data they need to drive their businesses forward.
 
 
-      I also made sure that throughout the whole design process of the project
-      we meet our user's needs, provide clear hierarchy in terms of which
-      elements and controls are more important - thus keeping the consistency
-      and standards at a familiar look and feel.
+      Making sure that throughout the whole design process of the project we
+      meet our user's needs, provide clear hierarchy in terms of which elements
+      and controls are more important - thus keeping the consistency and
+      standards at a familiar look and feel.
     type: text_section
   - image_alt: lorem-ipsum
     caption: Account & Team
