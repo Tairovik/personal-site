@@ -31,7 +31,7 @@ sections:
       Designing the admin dashboard with simplicity & efficacy.
     type: text_section
 seo:
-  title: ''
+  title: Afdal Analytics
   description: ''
   robots: []
   extra: []
