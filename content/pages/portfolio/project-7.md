@@ -14,7 +14,7 @@ sections:
       the logo. The Red Castle in Libya
     type: text_section
   - image_alt: RCCP Typography & Color
-    caption: lorem-ipsum
+    caption: Color Palette & Typography
     width: regular
     type: image_section
     image: /images/undraw_Development_re_g5hq-a14ff64b.png
