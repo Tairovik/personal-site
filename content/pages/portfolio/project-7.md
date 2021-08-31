@@ -16,8 +16,14 @@ sections:
     width: wide
     type: image_section
     image: /images/RCCP Color & Typgoraphy-02.png
-  - content: |
-      Typography and Color Palette choices explained.
+  - content: >
+      Going for the colors which we chose for our palette, represent the same
+      values which are mentioned in our logo designing process -  the same 
+
+
+      The typography is composed of the sleek looking Montserrat which we use
+      across the User Interface & Body Paragraphs, and the Merriweather serif
+      font as a Header choice.
     type: text_section
   - image_alt: RCCP Web Design
     width: wide
