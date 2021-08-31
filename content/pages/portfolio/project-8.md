@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Afdal Analytics
 subtitle: lorem-ipsum
 date: '2021-08-31'
 thumb_image_alt: lorem-ipsum
