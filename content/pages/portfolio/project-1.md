@@ -51,7 +51,7 @@ sections:
       application.
     type: text_section
 seo:
-  title: Design Is One
+  title: Hindamy
   description: This is the sample project description
   extra:
     - name: 'og:type'
