@@ -15,7 +15,7 @@ sections:
     type: text_section
   - image_alt: RCCP Typography & Color
     caption: Color Palette & Typography
-    width: regular
+    width: wide
     type: image_section
     image: /images/RCCP Logo & Color & Typography-02.png
   - content: |
