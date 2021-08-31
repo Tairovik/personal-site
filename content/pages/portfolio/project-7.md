@@ -8,7 +8,7 @@ sections:
     caption: Logo Design
     width: wide
     type: image_section
-    image: /images/RCCP Logo & Color & Typography-01.png
+    image: /images/RCCP Logo-01.png
   - content: >
       Story behind the Red Castle Capital Brand, and the thought process behind
       the logo. The Red Castle in Libya
