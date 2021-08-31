@@ -9,17 +9,10 @@ sections:
     width: wide
     type: image_section
     image: /images/Afdal Analytics Home.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: >
+      The landing & supporting pages for the upcoming analytics platform in the
+      Middle East & North Africa Region. Focusing on giving its user easy access
+      and use of the data they need to drive their businesses forward.
     type: text_section
   - image_alt: lorem-ipsum
     caption: lorem-ipsum
