@@ -54,7 +54,7 @@ sections:
     type: text_section
 seo:
   title: 'Logofolio #1'
-  description: This is the sample project description
+  description: 'A collection of logo designs for various clientele  '
   extra:
     - name: 'og:type'
       value: website
