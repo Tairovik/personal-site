@@ -19,17 +19,8 @@ sections:
     width: wide
     type: image_section
     image: /images/Afdal Team Screens.png
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      The account & team pages for the users of the platform.
     type: text_section
   - image_alt: Afdal Analytics Dashbaord
     caption: Dashboard Design
