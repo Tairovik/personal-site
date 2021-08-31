@@ -8,7 +8,7 @@ sections:
     caption: Web Design
     width: wide
     type: image_section
-    image: /images/Afdal Analytics Home Pages.png
+    image: /images/Afdal Analytics Home.png
 seo:
   title: ''
   description: ''
