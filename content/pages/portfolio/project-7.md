@@ -17,7 +17,7 @@ sections:
     caption: Color Palette & Typography
     width: regular
     type: image_section
-    image: /images/undraw_Development_re_g5hq-a14ff64b.png
+    image: /images/RCCP Logo & Color & Typography-02.png
   - content: |
       Typography and Color Palette choices explained.
     type: text_section
