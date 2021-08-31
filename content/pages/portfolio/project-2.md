@@ -49,8 +49,8 @@ sections:
       such that the branding can be used and evolved in the future based on the
       needs of the clients business.
 seo:
-  title: Aimi
-  description: This is the sample project description
+  title: Paradise
+  description: Brand development for Paradise Hotel & Spa complex
   extra:
     - name: 'og:type'
       value: website

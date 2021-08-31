@@ -35,12 +35,12 @@ sections:
       combination of characteristics that we are.
 
 
-      I also handled the Print Design portion of the project, organizing the
-      text and picture layouts in harmony. Our priority was accessibility and
-      ease of use, and understanding of content for the readers.
+      Also handling the Print Design portion of the project, organizing the text
+      and picture layouts in harmony. The priority we had with US Aid was the
+      accessibility, ease of use, and understanding of content for the readers.
 seo:
-  title: Nature Magazine
-  description: This is the sample project description
+  title: US Aid Health Manual
+  description: Designing a Mental & Physical Health Manual in collaboration with US Aid
   extra:
     - name: 'og:type'
       value: website

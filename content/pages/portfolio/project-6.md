@@ -53,8 +53,8 @@ sections:
       style.
     type: text_section
 seo:
-  title: Subtle
-  description: This is the sample project description
+  title: 'Logofolio #1'
+  description: A collection of logo designs for various clientele
   extra:
     - name: 'og:type'
       value: website

@@ -48,8 +48,8 @@ sections:
       We also made sure for the whole user experience to be at it's pinnacle -
       not compromising any accessibility or legibility for the price of looks. 
 seo:
-  title: Nature Mockup Magazine
-  description: This is the sample project description
+  title: All Up
+  description: Development of the brand & UI / UX of a Fintech Startup
   extra:
     - name: 'og:type'
       value: website

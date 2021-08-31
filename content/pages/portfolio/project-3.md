@@ -43,8 +43,8 @@ sections:
       feeling of the exhibition's artistic collection - communicating the
       feelings gained from the show as a preview to the observer's eye.
 seo:
-  title: The Book
-  description: This is the sample project description
+  title: Spaces of Oblivion
+  description: Design of the Poster & Catalogue for the Spaces of Oblivion Exhibition
   extra:
     - name: 'og:type'
       value: website
