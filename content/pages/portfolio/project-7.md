@@ -22,7 +22,6 @@ sections:
       Typography and Color Palette choices explained.
     type: text_section
   - image_alt: RCCP Web Design
-    caption: Web Design
     width: wide
     type: image_section
     image: /images/Red Castle Website Showcase 1.png
