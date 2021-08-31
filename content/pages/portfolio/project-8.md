@@ -42,6 +42,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/Afdal Dashboard Screens.png
 seo:
   title: ''
   description: ''
