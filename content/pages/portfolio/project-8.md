@@ -42,7 +42,7 @@ sections:
     caption: Dashboard Design
     width: wide
     type: image_section
-    image: /images/Afdal Dashboard Screens.png
+    image: /images/Afdal Dashboard Screen.png
 seo:
   title: ''
   description: ''
