@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Explore my projects
 layout_style: tiles
 seo:
   title: Portfolio
