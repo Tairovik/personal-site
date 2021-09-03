@@ -13,7 +13,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: /images/Brand Strategy.png
-image: /images/Brand Strategy Illustration-01.png
+image: /images/Brand Strategy Illustration 1-01.png
 ---
 ## Under Development
 
