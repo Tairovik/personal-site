@@ -9,8 +9,18 @@ sections:
       International Balkan University - Skopje.
 
 
-      Having the design experience in developing visual identities and UI / UX
-      on a wide variety of projects ranging from web apps, SaaS
+      I develop Visual Identities and User Interfaces & Experiences. Each
+      project has its specific identity, which I thoroughly research and
+      translate into visual design, using my knowledge, experience, and
+      methodology. Developing graphic systems and visual languages that help
+      define my clients' specific visual identity and their customers' needs.
+
+
+      Whether working with a large corporation, a small company, or an
+      individual - I approach each project with the highest degree of attention
+      to detail and ambition. Having the design experience in developing visual
+      identities and UI / UX on a wide variety of projects ranging from web
+      apps, SaaS
 
       businesses, AI apps, finance & investment firms, all the way to lounge
       bars & hotels - my design skills cover everything from larger to smaller
