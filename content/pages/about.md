@@ -69,8 +69,8 @@ sections:
       Corner](https://www.instagram.com/thescentcorner/)
 
 
-      Branding and packaging design of a handmade candle crafts business. One of
-      my most beloved projects.
+      Branding and packaging design of a handmade candle crafts business.
+      Remains one of my most beloved projects.
 
 
       #### &#xA;• Branding, Visual Identity at [Hotel
