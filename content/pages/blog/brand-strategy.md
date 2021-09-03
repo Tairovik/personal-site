@@ -19,4 +19,4 @@ image: /images/Brand Strategy Illustration 3-01.png
 
 Work in progress, to be shared soon.
 
-Thanks for stalking me tho - I appreciate it. :)
+Thanks for checking me out tho- I appreciate it. :)
