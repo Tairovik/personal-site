@@ -4,7 +4,7 @@ subtitle: A how-to guide on nailing your brand strategy
 date: '2021-09-03'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: Properly
+excerpt: Properly creating the brand strategy for your upcoming startup.
 seo:
   title: ''
   description: ''
