@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Developing Brand Strategies
 subtitle: lorem-ipsum
 date: '2021-09-03'
 thumb_image_alt: lorem-ipsum
