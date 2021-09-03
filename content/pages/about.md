@@ -29,8 +29,9 @@ sections:
 
       With growing interest in the User Experience aspect of design, trying to
       thoroughly understand the psychology behind our work & what I develop for
-      my clients. To utilize the tools that we designers have at hand, in hopes
-      of providing better service, accessibility, and clarity.
+      my clients. To utilize the tools and knowledge that we designers have at
+      hand, in hopes of providing better service, accessibility, and clarity for
+      users all over the globe.
     image_alt: Attending the Spaces of Oblivion Exhibition.
   - section_id: Work Experience
     title: Work Experience
