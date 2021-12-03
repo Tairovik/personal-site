@@ -71,7 +71,6 @@ sections:
 
 
       Branding and packaging design of a handmade candle crafts business.
-      Remains one of my most beloved projects.
 
 
       #### &#xA;• Branding, Visual Identity at [Hotel
