@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      Graduated from the Faculty of Engineering with a bachelor's degree in
+      Graduated from the Faculty of Engineering with a Bachelor's Degree in
       Architecture, and the Faculty of Art & Design with a Master of Art at the
       International Balkan University - Skopje.
 
@@ -17,14 +17,14 @@ sections:
 
 
       Whether working with a large corporation, a small company, or an
-      individual - I approach each project with the highest degree of attention
-      to detail and ambition. Having the design experience in developing visual
-      identities and UI / UX on a wide variety of projects ranging from web
-      apps, SaaS
+      individual - I approach projects with the highest degree of attention to
+      detail and ambition. Having the design experience in developing visual
+      identities and UI / UX on a wide variety of projects ranging from Web
+      Apps, SaaS
 
-      businesses, AI apps, finance & investment firms, all the way to lounge
-      bars & hotels - my design skills cover everything from larger to smaller
-      scales and requirements.
+      Businesses, AI Apps, Finance & Investment firms, all the way to Hotels -
+      my design skills cover everything from larger to smaller scales and
+      requirements.
 
 
       With growing interest in the User Experience aspect of design, trying to
